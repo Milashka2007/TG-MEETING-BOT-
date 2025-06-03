@@ -41,8 +41,7 @@ pip install -r requirements.txt
 4. Создайте файл `.env` и добавьте в него необходимые переменные:
 ```
 BOT_TOKEN=your_bot_token
-ADMIN_ID=your_admin_id
-SECOND_ADMIN_ID=your_second_admin_id
+DB_LITE=sqlite+aiosqlite:///your_db_name
 ```
 
 5. Запустите бота:
