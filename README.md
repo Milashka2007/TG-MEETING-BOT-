@@ -22,7 +22,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/meeting-bot.git
+git clone https://github.com/Milashka2007/meeting-bot.git
 cd meeting-bot
 ```
 
